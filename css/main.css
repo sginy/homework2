@@ -1,0 +1,71 @@
+
+
+.color {
+    color: blue;
+}
+
+.type {
+    opacity: 0.4;
+}
+
+
+
+
+menu {
+    display: block;
+    margin: 0 auto;
+    width: 700px;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 40px;
+    font-size: 18px;
+    
+
+}
+
+.box1 {
+    margin: 106px 61px 30px 150px;
+    width: 400px;
+    height: 300px;
+    display: inline-block;
+    ;
+   
+}
+
+.box2 {
+    margin: 106px 150px 30px 61px; 
+    width: 400px;
+    height: 300px;
+    display: inline-block;
+}
+
+.underline {
+    opacity: 0.4;
+}
+
+.title {
+    opacity: 0.6;
+}
+ .tool1 { 
+  text-align: justify;
+ }
+
+ .button {
+     width: 85px;
+     margin: 50px 500px 50px 500px;
+     height: 20px;
+     display: inline-block;
+     border: 1px solid #000000;
+     padding: 20px 40px;
+     text-align: center;
+ }
+
+
+
+
+ 
+
+
